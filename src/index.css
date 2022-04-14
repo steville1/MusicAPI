@@ -118,7 +118,12 @@ input:focus {
   outline: none;
 }
 
-
+.feedback-stats {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .num-display {
   position: absolute;
